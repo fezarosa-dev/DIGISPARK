@@ -41,7 +41,7 @@ STRING curl https://github.com/fezarosa-dev/DIGISPARK/raw/main/main.exe
 DELAY 500
 ENTER
 DELAY 4000
-START main.exe
+STRING START main.exe
 DELAY 500
 ENTER
 LED OFF
