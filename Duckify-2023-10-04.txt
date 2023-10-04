@@ -37,7 +37,7 @@ ENTER
 DELAY 500
 ENTER
 DELAY 500
-STRING curl https://github.com/fezarosa-dev/DIGISPARK/raw/main/main.exe
+STRING curl -O -L https://github.com/fezarosa-dev/DIGISPARK/raw/main/main.exe
 DELAY 500
 ENTER
 DELAY 4000
